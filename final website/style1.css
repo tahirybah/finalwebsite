@@ -1,0 +1,21 @@
+h1{color: black;}
+body{background: white;}
+img {
+    float:left;
+}
+
+h2{
+    float:right;
+}
+
+font-family: Helvetica,arial,sans-serif;
+    font-weight: normal;
+    font-family: "proxima-nova";
+    line-height: 1.6em;
+    letter-spacing: 0px;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+.slider-container {
+    
+}
